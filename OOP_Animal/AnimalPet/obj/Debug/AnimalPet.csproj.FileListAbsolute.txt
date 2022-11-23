@@ -1,0 +1,8 @@
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\bin\Debug\AnimalPet.exe.config
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\bin\Debug\AnimalPet.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\bin\Debug\AnimalPet.pdb
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\obj\Debug\AnimalPet.csproj.AssemblyReference.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\obj\Debug\AnimalPet.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\obj\Debug\AnimalPet.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\obj\Debug\AnimalPet.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\OOP_Animal\AnimalPet\obj\Debug\AnimalPet.pdb
